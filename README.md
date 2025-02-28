@@ -54,7 +54,8 @@ plt.show()
 
 ## Output:
 
-![Uploading WhatsApp Image 2025-02-28 at 09.29.21_35f60822.jpg…]()
+![WhatsApp Image 2025-02-28 at 09 29 21_35f60822](https://github.com/user-attachments/assets/995e1aea-7cf8-4c40-adb3-8712141e506b)
+
 
 
 
